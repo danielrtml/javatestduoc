@@ -1,0 +1,22 @@
+# Salida de Maven (el jar se genera, no se versiona)
+/target/
+
+# Logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code / Eclipse
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables locales
+.env
